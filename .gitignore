@@ -1,12 +1,9 @@
-build
 # testing
 /coverage
 
 node_modules
 
 app/node_modules
-
-# production
 
 # misc
 .DS_Store
